@@ -8,7 +8,3 @@ let saison = {
     spécial: ["Baie de gemme sucrée", "Feuille de thé", "Fruit ancient", "Fruit de cactus", ]
 }
 
-for (let nomSaison in saison) {
-    console.log(nomSaison);
-}
-console.log("teste")
