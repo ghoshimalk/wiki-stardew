@@ -11,3 +11,4 @@ let saison = {
 for (let nomSaison in saison) {
     console.log(nomSaison);
 }
+console.log("teste")
