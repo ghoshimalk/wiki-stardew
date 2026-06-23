@@ -1,7 +1,7 @@
 let saison = {
     printemps: " -Ail\n -Carotte\n -Chou frisé\n -Chou-fleur\n -Fraise\n -Grain de café\n -Haricot vert\n -Panais\n -pomme de terre\n -Rhubarbe\n -Riz non moulu\n -Tulipe\n -Zinnia bleue" ,
     été: " -Blé\n -Carambole\n -Chou rouge\n -courge d'été\n -Fleur tropicale d'été\n -Houblon\n -Maïs\n -Melon\n -Mirtylle\n -Pavot\n -Piment fort\n -Radis\n -Tomate\n -Tournesole",
-    automne: " -Amarante\n -Artichaut\n -Betterave\n -Brocoli\n -Canneberges\n -Chou chinois\n -Citrouille\n -Igname\n -Raisin\n -Rose de féé",
+    automne: " -Amarante\n -Artichaut\n -Betterave\n -blé\n -Brocoli\n -Canneberges\n -Chou chinois\n -Citrouille\n -Igname\n -Raisin\n -Rose de féé",
     hiver: " -Poudremelon",
     spécial: " -Baie de gemme sucrée\n -Feuille de thé\n -Fruit ancient\n -Fruit de cactus"
 }
@@ -16,8 +16,16 @@ let printemps = {
     haricotVert: " -prix: 60po\n -temps de croissance: 10 jours\n -repousse tout les 3 jours\nse revend\n -basique: 40po\n -argent: 50po\n -or: 60po\n -légendaire: 80po",
     panais: " -prix: 20po\n -temps de croissance: 4 jours\nse revend\n -basique: 35po\n -argent: 43po\n -or: 52 po\n -légendaire: 70po",
     pommeDeTerre: " -prix: 50po\n -temps de croissance: 6jours\nse revend\n -basique: 80po\n -argent: 100po\n -or: 120po\n -légendaire: 160po",
-    rhubarbe: "Achat chez Oasis\n -prix 100po\n -temps de croissance: 13jours\nse revend\n -basique: 220po\n -argents: 275po\n -or: 330po\n -légendaire: 440po",
+    rhubarbe: "Achat uniquement chez Oasis\n -prix 100po\n -temps de croissance: 13jours\nse revend\n -basique: 220po\n -argents: 275po\n -or: 330po\n -légendaire: 440po",
     rizNonMoulu: " -prix: 40po\n -temps de croissance: 6 à 8 jours\nse revend\n -basique: 30po\n -argent: 37po\n -or: 45po\n -légendaire: 60po",
     tulipe: " -prix: 20po\n -temps de coissance: 6 jours\nse revend\n -basique: 30po\n -argent: 37po\n -or: 45po\n -légenraire: 60po",
     zinniaBleue: " -prix: 30po\n -temps de croissance: 7 jours\nse revend\n -basique 50po\n -argent: 62po\n -or: 75po\n -légendaire: 100po",
+}
+
+let été = {
+    blé: " -prix: 10po\n -tempd de croissance: 4jours\nse revend\n -basique: 25po\n -argent: 31po\n -or: 37po\n -légendaire: 50po",
+    carambole: "Achat uniquement chez Oasis\n -prix: 400po\n -temps de pousse: 13jours\nSe revend\n -basique: 750po\n -argent: 937po\n -or: 1 125po\n -légendaire: 1 500po",
+    chouRouge: "Disponible qu'à partire de la deuxième année\n -prix: 100po\n -temps de pousse: 9 jours\nse revend\n -basique: 260po\n -argent: 325po\n -or: 390po\n -légendaire: 520po",
+    courgeDété: "À creuser uniquement\n -temps de pousse: 6 jours\n -repousse tout les 3 jours\nse revend\n -basique: 45po\n -argent: 56po\n -or: 67po\n -légandaire: 90po",
+    
 }
