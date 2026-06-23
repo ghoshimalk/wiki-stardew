@@ -17,5 +17,7 @@ let printemps = {
     panais: " -prix: 20po\n -temps de croissance: 4 jours\nse revend\n -basique: 35po\n -argent: 43po\n -or: 52 po\n -légendaire: 70po",
     pommeDeTerre: " -prix: 50po\n -temps de croissance: 6jours\nse revend\n -basique: 80po\n -argent: 100po\n -or: 120po\n -légendaire: 160po",
     rhubarbe: "Achat chez Oasis\n -prix 100po\n -temps de croissance: 13jours\nse revend\n -basique: 220po\n -argents: 275po\n -or: 330po\n -légendaire: 440po",
-    
+    rizNonMoulu: " -prix: 40po\n -temps de croissance: 6 à 8 jours\nse revend\n -basique: 30po\n -argent: 37po\n -or: 45po\n -légendaire: 60po",
+    tulipe: " -prix: 20po\n -temps de coissance: 6 jours\nse revend\n -basique: 30po\n -argent: 37po\n -or: 45po\n -légenraire: 60po",
+    zinniaBleue: " -prix: 30po\n -temps de croissance: 7 jours\nse revend\n -basique 50po\n -argent: 62po\n -or: 75po\n -légendaire: 100po",
 }
