@@ -57,3 +57,8 @@ let automne = {
 let hiver = {
     poudremelon: "À creuser uniquement\n -temps de pousse: 7 jours\nse revend\n •basique: 60po\n •argent: 75po\n •or: 90po\n •légendaire: 120po",
 }
+
+let récolteSpéciale= {
+    baieDeGemmeSucrée: "Pousse ne automne\nAchat uniquement au chariot de voyage\nTrouvable surtout en printemp↔été et très rare en automne↔hiver\nPeux être offert aux vieux maître cannoli dans la forêt secrète\n -prix: 1 000\n -temps de pousse: 24 jours\nse revend\n •basique: 3 000po\n •argent: 3 750po\n •or: 4 500po\n •légendaire: 6 000po",
+    
+}
