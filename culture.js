@@ -53,3 +53,7 @@ let automne = {
     roseDeFée: " -prix: 200po\n -temps de pousse 12 jours\nse revend\n •basique: 290po\n •argent: 362po\n •or: 435po\n •légendaire: 580po",
     tournesol: "Produira également de 0 à 3 graine de tournesol\n -prix: 200po\n -temps de pousse: 8 jours\nse revend\n •basique: 80po\n •argent: 100po\n •or: 120po\n •légendaire: 160po",
 }
+
+let hiver = {
+    poudremelon: "À creuser uniquement\n -temps de pousse: 7 jours\nse revend\n •basique: 60po\n •argent: 75po\n •or: 90po\n •légendaire: 120po",
+}
