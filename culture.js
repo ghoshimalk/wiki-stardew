@@ -27,5 +27,14 @@ let été = {
     carambole: "Achat uniquement chez Oasis\n -prix: 400po\n -temps de pousse: 13jours\nSe revend\n -basique: 750po\n -argent: 937po\n -or: 1 125po\n -légendaire: 1 500po",
     chouRouge: "Disponible qu'à partire de la deuxième année\n -prix: 100po\n -temps de pousse: 9 jours\nse revend\n -basique: 260po\n -argent: 325po\n -or: 390po\n -légendaire: 520po",
     courgeDété: "À creuser uniquement\n -temps de pousse: 6 jours\n -repousse tout les 3 jours\nse revend\n -basique: 45po\n -argent: 56po\n -or: 67po\n -légandaire: 90po",
-    
+    fleurTropicaleDété: " -prix: 50po\n -temps de pousse: 8 jours\nse revend\n -basique: 90po\n -argent: 112po\n -or: 135po\n -légendaire: 180po",
+    houblon: " -prix: 60po\n -temps de pousse: 11 jours\n -repousse tout les jours\nse revend\n -basique: 25po\n -argent 31po\n -or: 37po\n -légendaire: 50po",
+    maïs: " -prix: 150po\n -temps de pousse: 14 jours\n -repousse tout les 4 jours\nse revend\n -basique: 50po\n -argent: 62po\n -or: 75po\n -légendaire: 100po",
+    melon: "Peux devenir une culture géante\n -prix: 80po\n -temps de pousse: 12 jours\nse revend\n -basique: 250po\n -argent: 312po\n -or: 375po\n -légendaire: 500po",
+    myrtille: "≈2% de chance de produire plus de myrtille\n -prix: 80po\n -temps de pousse: 13 jours\n -repousse tout les 4 jours\nse revend\n -basique: 50po\n -argent: 62po\n -or: 75po\n -légendaire: 100po",
+    pavot: " -prix: 100po\n -temps de pousse: 7 jours\nse revend\n -basique: 140po\n -argent: 175po\n -or: 210po\n -légendaire: 280po",
+    pimentFort: " -prix: 40po\n -temps de pousse: 5 jours\n -repousse tout les 3 jours\nse revend\n -basique: 40po\n -argent: 50po\n -or: 60po\n -légendaire: 80po",
+    radis: " -prix: 40po\n -temps de pousse: 6 jours\nse revend\n -basique: 90po\n -argent: 112po\n -or: 135po\n -légendaire: 180po",
+    tomate: " -prix: 50po\n -temps de pousse: 11 jours\n -repousse tout les 4 jours\nse revend\n -basique: 60po\n -argent: 75po\n -or: 90po\n -légendaire: 120po",
+    tournesol: "Produira également de 0 à 3 graine de tournesol\n -prix: 200po\n -temps de pousse: 8 jours\nse revend\n -basique: 80po\n -argent: 100po\n -or: 120po\n -légendaire: 160po",
 }
