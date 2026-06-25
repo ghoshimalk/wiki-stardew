@@ -60,5 +60,5 @@ let hiver = {
 
 let récolteSpéciale= {
     baieDeGemmeSucrée: "Pousse ne automne\nAchat uniquement au chariot de voyage\nTrouvable surtout en printemp↔été et très rare en automne↔hiver\nPeux être offert aux vieux maître cannoli dans la forêt secrète\n -prix: 1 000\n -temps de pousse: 24 jours\nse revend\n •basique: 3 000po\n •argent: 3 750po\n •or: 4 500po\n •légendaire: 6 000po",
-    
+    feuilleDeThé: "Pousse pendant n'importe quel saison (Hiver si à l'intérieure)\nPeux être acheter au chariot de voyage\n -prix: entre 1 500 et 2 500po\nSinon il est obtenable part lettre a le lendemain du 2ème coeur de Caroline\n -temps de pousse: 20 jours\n -reproduie tout les jours\nse revend: 50po la feuille" 
 }
